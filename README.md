@@ -11,7 +11,9 @@
 
 [![Harlok's WakaTime stats](https://github-readme-stats.vercel.app/api/wakatime?username=MXTR327&layout=compact&theme=transparent)](https://wakatime.com/@MXTR327)
 
-[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=MXTR327&repo=ApiByteBackend&theme=transparent)](https://github.com/MXTR327/ApiByteBackend)
+[![ApiByteBackend](https://github-readme-stats.vercel.app/api/pin/?username=MXTR327&repo=ApiByteBackend&theme=transparent)](https://github.com/MXTR327/ApiByteBackend)
+
+[![ApiByteFrontend](https://github-readme-stats.vercel.app/api/pin/?username=MXTR327&repo=ApiByteBackend&theme=transparent)](https://github.com/MXTR327/ApiByteFrontend)
 
 ---
 
