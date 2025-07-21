@@ -13,7 +13,7 @@
 
 [![ApiByteBackend](https://github-readme-stats.vercel.app/api/pin/?username=MXTR327&repo=ApiByteBackend&theme=transparent)](https://github.com/MXTR327/ApiByteBackend)
 
-[![ApiByteFrontend](https://github-readme-stats.vercel.app/api/pin/?username=MXTR327&repo=ApiByteBackend&theme=transparent)](https://github.com/MXTR327/ApiByteFrontend)
+[![ApiByteFrontend](https://github-readme-stats.vercel.app/api/pin/?username=MXTR327&repo=ApiByteFrontend&theme=transparent)](https://github.com/MXTR327/ApiByteFrontend)
 
 ---
 
