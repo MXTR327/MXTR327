@@ -46,9 +46,9 @@
 ---
 ## 📫 Let's Connect
 
- 💼 [LinkedIn](https://www.linkedin.com/in/max-ramirez-6b997237b)
+[![Linkedin](https://img.shields.io/badge/github-181717?style=for-the-badge&logo=github&logoColor=white)](https://www.linkedin.com/in/max-ramirez-6b997237b)
  
- [![Github](https://img.shields.io/badge/github-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/MXTR327?tab=repositories)
+[![Github](https://img.shields.io/badge/github-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/MXTR327?tab=repositories)
 
 ---
 
