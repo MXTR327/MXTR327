@@ -25,10 +25,6 @@
 
 ## 🚀 Tech Stack
 
-[![Spring Boot](https://img.shields.io/badge/Spring_Boot_3-6DB33F?style=for-the-badge&logo=spring-boot&logoColor=white)](https://start.spring.io/)
-
-[![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=coffeescript&logoColor=white)](https://docs.oracle.com/en/java/)
-
 [![Angular](https://img.shields.io/badge/Angular_20+-0F0F11?style=for-the-badge&logo=angular&logoColor=white)](https://angular.dev/overview)
 
 [![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white)](https://www.typescriptlang.org/docs/)
@@ -42,6 +38,10 @@
 [![Vue.js](https://img.shields.io/badge/Vue_3-4FC08D?style=for-the-badge&logo=vue.js&logoColor=white)](https://vuejs.org/guide/introduction.html)
 
 [![Autohotkey](https://img.shields.io/badge/autohotkey_v1|v2-334455?style=for-the-badge&logo=autohotkey&logoColor=white)](https://vuejs.org/guide/introduction.html)
+
+[![Spring Boot](https://img.shields.io/badge/Spring_Boot_3-6DB33F?style=for-the-badge&logo=spring-boot&logoColor=white)](https://start.spring.io/)
+
+[![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=coffeescript&logoColor=white)](https://docs.oracle.com/en/java/)
 
 ---
 ## 📫 Let's Connect
