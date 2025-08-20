@@ -25,13 +25,30 @@
 
 ## 🚀 Tech Stack
 
-| **Frontend**                                                                 | **Backend**                                                                 | **Productividad / Automatización**                                                   |
-|------------------------------------------------------------------------------|------------------------------------------------------------------------------|--------------------------------------------------------------------------------------|
-| [![Angular](https://img.shields.io/badge/Angular_20+-0F0F11?style=for-the-badge&logo=angular&logoColor=white)](https://angular.dev/overview) | [![Spring Boot](https://img.shields.io/badge/Spring_Boot_3-6DB33F?style=for-the-badge&logo=spring-boot&logoColor=white)](https://start.spring.io/) | [![Autohotkey](https://img.shields.io/badge/autohotkey_v1_v2-334455?style=for-the-badge&logo=autohotkey&logoColor=white)](https://www.autohotkey.com/) |
-| [![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white)](https://www.typescriptlang.org/docs/) | [![Laravel](https://img.shields.io/badge/Laravel-FF2D20?style=for-the-badge&logo=laravel&logoColor=white)](https://laravel.com/docs/12.x/installation) |                                                                                      |
-| [![TailwindCSS](https://img.shields.io/badge/TailwindCSS-06B6D4?style=for-the-badge&logo=tailwind-css&logoColor=white)](https://tailwindcss.com/docs/installation/framework-guides/angular) | [![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=coffeescript&logoColor=white)](https://docs.oracle.com/en/java/) |                                                                                      |
-| [![Daisyui](https://img.shields.io/badge/daisyui-38B2AC?style=for-the-badge&logo=daisyui&logoColor=white)](https://daisyui.com/docs/install/angular/) |                                                                              |                                                                                      |
-| [![Vue.js](https://img.shields.io/badge/Vue_3-4FC08D?style=for-the-badge&logo=vue.js&logoColor=white)](https://vuejs.org/guide/introduction.html) |                                                                              |                                                                                      |
+<table style="width:100%">
+  <tr>
+    <th style="width:33%">Frontend</th>
+    <th style="width:33%">Backend</th>
+    <th style="width:33%">Productividad / Automatización</th>
+  </tr>
+  <tr>
+    <td align="center">
+      <a href="https://angular.dev/overview"><img src="https://img.shields.io/badge/Angular_20+-0F0F11?style=for-the-badge&logo=angular&logoColor=white"></a><br>
+      <a href="https://vuejs.org/guide/introduction.html"><img src="https://img.shields.io/badge/Vue_3-4FC08D?style=for-the-badge&logo=vue.js&logoColor=white"></a><br>
+      <a href="https://www.typescriptlang.org/docs/"><img src="https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white"></a><br>
+      <a href="https://tailwindcss.com/docs/installation/framework-guides/angular"><img src="https://img.shields.io/badge/TailwindCSS-06B6D4?style=for-the-badge&logo=tailwind-css&logoColor=white"></a><br>
+      <a href="https://daisyui.com/docs/install/angular/"><img src="https://img.shields.io/badge/daisyui-38B2AC?style=for-the-badge&logo=daisyui&logoColor=white"></a>
+    </td>
+    <td align="center">
+      <a href="https://start.spring.io/"><img src="https://img.shields.io/badge/Spring_Boot_3-6DB33F?style=for-the-badge&logo=spring-boot&logoColor=white"></a><br>
+      <a href="https://laravel.com/docs/12.x/installation"><img src="https://img.shields.io/badge/Laravel-FF2D20?style=for-the-badge&logo=laravel&logoColor=white"></a><br>
+      <a href="https://docs.oracle.com/en/java/"><img src="https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=coffeescript&logoColor=white"></a>
+    </td>
+    <td align="center">
+      <a href="https://www.autohotkey.com/docs/"><img src="https://img.shields.io/badge/AutoHotkey_v1|v2-334455?style=for-the-badge&logo=autohotkey&logoColor=white"></a>
+    </td>
+  </tr>
+</table>
 
 ---
 ## 📫 Let's Connect
