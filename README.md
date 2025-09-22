@@ -1,8 +1,8 @@
 ![Header](./img/github-header-image.png)
 
-🔧 Backend: Spring Boot (API REST)  
 🎨 Frontend: Angular 20 + TypeScript (Composition API, Tailwind CSS, DaisyUI)  
 🧪 Design System: Atomic Design  
+🔧 Backend: Spring Boot (API REST)  
 🌐 Passionate about clean code, performance, and features  
 
 ---
