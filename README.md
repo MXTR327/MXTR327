@@ -1,13 +1,13 @@
 ![Header](./img/github-header-image.png)
 
-🎨 Frontend: Angular 20 + TypeScript (Composition API, Tailwind CSS, DaisyUI)  
-🧪 Design System: Atomic Design  
+🎨 Frontend: Angular 20 + TypeScript (Composition API, Tailwind CSS, DaisyUI, Etc)  
+🧪 Design System: DRY principle
 🔧 Backend: Spring Boot (API REST)  
 🌐 Passionate about clean code, performance, and features  
 
 ---
 
-## 📊 GitHub Stats
+## 📊 Estadisticas GitHub
 
 [![Harlok's WakaTime stats](https://github-readme-stats.vercel.app/api/wakatime?username=MXTR327&layout=compact&theme=transparent)](https://wakatime.com/@MXTR327)
 
@@ -17,13 +17,13 @@
 
 ---
 
-## 🧠 Most Used Languages
+## 🧠 Lenguajes Más Usados
 
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=MXTR327&layout=donut&langs_count=8&theme=transparent)
+[![TL](https://github-readme-stats.vercel.app/api/top-langs/?username=MXTR327&layout=pie&langs_count=10&theme=transparent&hide_title=true)](https://github-readme-stats.vercel.app/api/top-langs/?username=MXTR327&layout=pie&langs_count=10&theme=transparent&hide_title=true)
 
 ---
 
-## 🚀 Tech Stack
+## 🚀 Mi Stack De Tecnologias
 
 | **Frontend**                                                                 | **Backend**                                                                 | **Productividad / Automatización**                                                   |
 |------------------------------------------------------------------------------|------------------------------------------------------------------------------|--------------------------------------------------------------------------------------|
@@ -34,7 +34,7 @@
 | [![Vue.js](https://img.shields.io/badge/Vue_3-4FC08D?style=for-the-badge&logo=vue.js&logoColor=white)](https://vuejs.org/guide/introduction.html) |                                                                              |                                                                                      |
 
 ---
-## 📫 Let's Connect
+## 📫 Redes
 
 [![Linkedin](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/max-ramirez-quichiz-c0nf1d3nc3n33dsn0w1tn3ss)
  
@@ -42,4 +42,4 @@
 
 ---
 
-> 💬 “Code is like humor. When you have to explain it, it’s bad.” – Cory House 
+> 💬 “Si funciona no lo toques… digna de quien maquilla conformismo como sabiduría.” 
