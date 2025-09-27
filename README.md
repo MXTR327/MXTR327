@@ -11,15 +11,18 @@
 
 [![Harlok's WakaTime stats](https://github-readme-stats.vercel.app/api/wakatime?username=MXTR327&layout=compact&theme=transparent)](https://wakatime.com/@MXTR327)
 
-[![FrontendLandingPage](https://github-readme-stats.vercel.app/api/pin/?username=MXTR327&repo=ramsua-services&theme=transparent)](https://ramsuaservices.vercel.app/)
-[![ApiByteBackend](https://github-readme-stats.vercel.app/api/pin/?username=MXTR327&repo=ApiByteBackend&theme=transparent)](https://github.com/MXTR327/ApiByteBackend)
-[![ApiByteFrontend](https://github-readme-stats.vercel.app/api/pin/?username=MXTR327&repo=ApiByteFrontend&theme=transparent)](https://github.com/MXTR327/ApiByteFrontend)
+[![FLP](https://github-readme-stats.vercel.app/api/pin/?username=MXTR327&repo=ramsua-services&theme=transparent)](https://ramsuaservices.vercel.app/)
+[![ATS](https://github-readme-stats.vercel.app/api/pin/?username=MXTR327&repo=angular-teslo-shop&theme=transparent)](https://teslo-shop-front-maxtr.netlify.app/#/)
+[![AFH](https://github-readme-stats.vercel.app/api/pin/?username=MXTR327&repo=Angular-FH&theme=transparent)](https://github.com/MXTR327/Angular-FH)
+[![AUA](https://github-readme-stats.vercel.app/api/pin/?username=MXTR327&repo=Angular-UA&theme=transparent)](https://github.com/MXTR327/Angular-UA)
+[![AB](https://github-readme-stats.vercel.app/api/pin/?username=MXTR327&repo=ApiByteBackend&theme=transparent)](https://github.com/MXTR327/ApiByteBackend)
+[![AF](https://github-readme-stats.vercel.app/api/pin/?username=MXTR327&repo=ApiByteFrontend&theme=transparent)](https://github.com/MXTR327/ApiByteFrontend)
 
 ---
 
 ## 🧠 Lenguajes Más Usados
 
-[![TL](https://github-readme-stats.vercel.app/api/top-langs/?username=MXTR327&layout=pie&langs_count=10&theme=transparent&hide_title=true)](https://github-readme-stats.vercel.app/api/top-langs/?username=MXTR327&layout=pie&langs_count=10&theme=transparent&hide_title=true)
+[![TL](https://github-readme-stats.vercel.app/api/top-langs/?username=MXTR327&layout=donut&langs_count=10&theme=transparent&hide_title=true)](https://github-readme-stats.vercel.app/api/top-langs/?username=MXTR327&layout=donut&langs_count=10&theme=transparent&hide_title=true)
 
 ---
 
@@ -42,4 +45,4 @@
 
 ---
 
-> 💬 “Si funciona no lo toques… digna de quien maquilla conformismo como sabiduría.” 
+> 💬 “Si funciona no lo toques… digna de quien maquilla conformismo como sabiduría.” - 🧊
